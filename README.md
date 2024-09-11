@@ -2,9 +2,13 @@
 Temos dois códigos aqui no primeiro a instalação e utilização do biblioshiy, no segundo uma modelagem e otimização de uma reação.
 
 # Código 1:
+
 install.packages("bibliometrix")
+
 library(bibliometrix)
+
 biblioshiny()
+
 # Pelo comando biblioshiny() é aberta uma página no navegado onde é possível carregar os artigos e selecionar as análises desejadas.
 
 # Código 2:
